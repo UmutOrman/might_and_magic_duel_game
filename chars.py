@@ -1,3 +1,9 @@
+#script name: chars.py
+#author: Umut Orman
+#created: 14th August 2015
+#version: 1.0
+#description: character classes are defined in this script by help of inheritance in it's own
+
 from random import randint
 from skills import *
 class Char(object):
