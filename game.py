@@ -3,6 +3,7 @@
 #created: 14th August 2015
 #version: 1.0
 #description: game engine script for duel based python game
+
 from sys import exit
 from random import randint
 from chars import *
