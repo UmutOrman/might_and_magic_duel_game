@@ -1,3 +1,8 @@
+#script name: skills.py
+#author: Umut Orman
+#created: 14th August 2015
+#version: 1.0
+#description: skills are defined in this script in terms of functions
 def print_after_skill(player, enemy, is_enemy):
     if (is_enemy == False):
         print "Your health is : %d  , your mana is %d " % (player.health , player.mana)
